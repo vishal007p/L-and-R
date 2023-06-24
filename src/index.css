@@ -1,0 +1,12 @@
+.PhoneInput{
+ 
+    width: 97%;
+    border-radius: 10px;
+    border:2px solid #EDEDED;
+    padding: 10px;
+}
+.PhoneInput input{
+    border: none;
+    background: white;
+}
+ 
